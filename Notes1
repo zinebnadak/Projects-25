@@ -1,8 +1,4 @@
 
-
-print(type(a))
-
-
 # type of a=123 is an integer, BUT b="123" is a string
 a=123
 b="123"
