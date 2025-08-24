@@ -6,3 +6,5 @@ score = 0 #To keep track of correct answers
 print ("Welcome to the Addition Quiz!\n")
 
 #Create a Loop through each problem
+
+nu testar jag 
