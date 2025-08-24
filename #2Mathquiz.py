@@ -7,4 +7,4 @@ print ("Welcome to the Addition Quiz!\n")
 
 #Create a Loop through each problem
 
-nu testar jag 
+nu testar jag igen!
